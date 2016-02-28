@@ -1,0 +1,34 @@
+_repo: The-Bride-of-Dreams_9111
+contributor:
+  translator:
+    agent_name: Auw, Mellie von
+    birthdate: 1876
+    gutenberg_agent_id: '2982'
+    url: http://www.gutenberg.org/2009/agents/2982
+creator:
+  author:
+    agent_name: Eeden, Frederik van
+    aliases:
+    - Eeden, Frederik Willem van
+    - Eeden, Frederick van
+    - Van Eeden, Frederik
+    - Paradijs, Cornelis
+    birthdate: 1860
+    deathdate: 1932
+    gutenberg_agent_id: '2981'
+    url: http://www.gutenberg.org/2009/agents/2981
+    wikipedia: http://en.wikipedia.org/wiki/Frederik_van_Eeden
+description: ''
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+title: The Bride of Dreams
+url: http://www.gutenberg.org/ebooks/9111
