@@ -1,10 +1,14 @@
 _repo: The-Bride-of-Dreams_9111
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Auw, Mellie von
     birthdate: 1876
     gutenberg_agent_id: '2982'
     url: http://www.gutenberg.org/2009/agents/2982
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Eeden, Frederik van
@@ -19,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2981
     wikipedia: http://en.wikipedia.org/wiki/Frederik_van_Eeden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9111#The-Bride-of-Dreams
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
 identifiers:
